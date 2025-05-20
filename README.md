@@ -2,4 +2,4 @@ This is a Laravel Project where I implemented CRUD(Create,Read,Update and Delete
 It's a PHP based project where I used html,css as fornt-end technogy basically as Bootstrap
 In This Project I used MySQL for database storing and my Database name was "amar_data" (without quote).
 The follwing picture will well explain briefly basically What I did
-![Hosted Image]([https://example.com/images/hosted-image.png](https://github.com/jahidarif/Laravel-CRUD-/blob/main/Screenshot%20(1).png))
+![Project Screenshot](images/screenshot.png))

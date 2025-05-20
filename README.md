@@ -4,4 +4,4 @@ In This Project I used MySQL for database storing and my Database name was "amar
 The follwing picture will well explain briefly basically What I did
 </br> </br>
 
-![Project Screenshot](<Screenshot (1).png>)
+<img src="screenshot1.png" alt="Project Screenshot" width="300">

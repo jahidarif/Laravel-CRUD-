@@ -2,6 +2,6 @@ This is a Laravel Project where I implemented CRUD(Create,Read,Update and Delete
 It's a PHP based project where I used html,css as fornt-end technogy basically as Bootstrap. </br> </br>
 In This Project I used MySQL for database storing and my Database name was "amar_data" (without quote). </br> </br>
 The follwing picture will well explain briefly basically What I did
-
+</br> </br>
 
 ![Project Screenshot](<Screenshot (1).png>)
